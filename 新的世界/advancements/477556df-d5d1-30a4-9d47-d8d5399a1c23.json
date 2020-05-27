@@ -1,0 +1,8 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "taiga_hills": "2020-05-14 10:01:00 +0800"
+    },
+    "done": false
+  }
+}
